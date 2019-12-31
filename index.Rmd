@@ -1,0 +1,24 @@
+
+
+---
+title: "A Minimal Book Example"
+author: "zhang"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+1utput: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook"
+---
+
+# Prerequistes
+
+This is a _smaple_ book written in **Markdown**. 
+
+写一点中文怎么样，就是试试看，网页能用不．
+
+
+
